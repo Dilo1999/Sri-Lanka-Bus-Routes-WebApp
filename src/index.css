@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.select-container {
+  margin-bottom: 10px;
+}
+
+.button-wrapper {
+  margin-bottom: 20px;
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.bus-route-grid {
+  margin-top: 20px;
+}
+
+.card-content {
+  padding: 16px;
+}
+
+.card-title {
+  margin-bottom: 8px;
+  font-size: 1.2rem;
+}
+
+.card-text {
+  margin-bottom: 4px;
+  font-size: 1.2rem;
+}
